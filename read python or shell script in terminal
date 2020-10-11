@@ -1,0 +1,3 @@
+# First change directory to where the script sets, and simply type in terminal:
+python file_name.py # if it is a python file
+bash file_name.sh # if it is a shell file
