@@ -1,2 +1,2 @@
 # gdal_installation
-how to install goal in Mac
+how to install and use gdal on Mac
